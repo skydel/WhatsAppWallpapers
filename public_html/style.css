@@ -1,0 +1,43 @@
+body{
+    color: white;
+    background: none repeat scroll 0% 0% rgb(42, 41, 46);
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    width: 100%;
+    max-width: 320px;
+    margin: auto;
+}
+
+.disclaimer {
+    color: gray;
+    font-size: 12px;
+    text-align: justify;
+    margin: 30px 0px 0px;
+}
+.disclaimer a {
+    color: gray;
+}
+
+.label {
+    font-size: 13px;
+}
+
+.inputText{
+    font-size: 1.5em;
+    width: 95%;
+    text-align: center;
+}
+
+.input_submit {
+    width: 95%;
+    margin: 10px 0px 5px;
+    background: none repeat scroll 0% 0% rgb(178, 210, 52);
+    font-size: 1.1em;
+    color: black;
+}
